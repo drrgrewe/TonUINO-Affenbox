@@ -42,9 +42,9 @@
 *Sample Classic
 */
 
-#define buttonPause A0
-#define buttonUp A1 
-#define buttonDown A2
+#define buttonPause A1
+#define buttonUp A2
+#define buttonDown A0
 
 #endif
 
